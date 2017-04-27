@@ -56,8 +56,8 @@ File    : SEGGER_RTT_Conf.h
 Purpose : Implementation of SEGGER real-time transfer (RTT) which
           allows real-time communication on targets which support
           debugger memory accesses while the CPU is running.
-Revision: $Rev: 5504 $
-----------------------------------------------------------------------
+Revision: $Rev: 6302 $
+
 */
 
 #ifndef SEGGER_RTT_CONF_H
